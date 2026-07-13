@@ -4,7 +4,7 @@ Direction autonome réalisée avec **nexu-io/open-design@frontend-design** à pa
 
 ## Concept
 
-Un carnet de terrain contemporain, clair et tactile. La signature visuelle est une « zone d'écoute » interactive qui rend la couleur à l'endroit précis où le visiteur déplace son regard.
+Un carnet de terrain contemporain, clair et tactile, renforcé par une architecture de conversion : besoins identifiables, bénéfices explicites, tarifs visibles et appels à l'action répartis au bon moment. La signature visuelle reste une « zone d'écoute » interactive qui rend la couleur à l'endroit précis où le visiteur déplace son regard.
 
 ## Développement local
 
